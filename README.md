@@ -1,4 +1,6 @@
-   <strong>Summary</strong><br/>
+ Expanding Your World
+ 
+ <strong>Summary</strong><br/>
 This webpage was my second project at Suncoast Developers Guild! We were instructed to create a basic webpage including one of our hobbies using text and two images. This assignment needed the use of at least 2 pages including tag selectors, id selectors, and class style selectors. I created a page KSH (keep Shea Happy), this is a page that goes through some of the basics for my work life balace. 
 
 <strong>Things learned</strong><br/>
